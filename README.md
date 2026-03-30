@@ -2,4 +2,4 @@
 THE IMAGE RATING PLATFORM
 
 # DEPLOYED LINK
-VIEW THE SITE HERE[ https://umangsinghujjain.github.io/CRITIQUE/]
+[ https://umangsinghujjain.github.io/CRITIQUE/]
